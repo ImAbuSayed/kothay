@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Kothay
+
+This log tracks the cryptographic history and versioning for the song **Kothay** (kothay).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-11T07:18:35.336937 | `v1` | `5bc6ecdca58ac65dac957b9aff0e0c54f3cfa8765b5610b300c714b23d18d305` | `67b06ddad6536fc7f04958efca43d537035f6b7b88c0d7249e46c6f8d740ecb0` | `2026-05-11_kothay-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

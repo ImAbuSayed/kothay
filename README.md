@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/kothay/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Kothay](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/kothay/) |
+| **Get License** | [Commercial Licensing for Kothay](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/kothay/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `5bc6ecdca58ac65dac957b9aff0e0c54f3cfa8765b5610b300c714b23d18d305` |
 | **Timestamp** | May 11, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
